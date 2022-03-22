@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: lightslategrey;
+}
+.row {
+        display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/*.row img {*/
+/*    color: white;*/
+/*    font-family: monospace;*/
+/*    font-weight: bold;*/
+/*    text-transform: capitalize;*/
+/*}*/
